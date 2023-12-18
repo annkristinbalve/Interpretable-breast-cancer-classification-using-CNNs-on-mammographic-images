@@ -1,4 +1,4 @@
-<img width="334" alt="image" src="https://github.com/annkristinbalve/Interpretable_Breast_Cancer_Classification/assets/76830039/18a0f0e8-9cbf-42b0-94ac-3db90545f4e6"># Bachelor Thesis in Cognitive Science and Artificial Intelligence at Tilburg University 
+Bachelor Thesis in Cognitive Science and Artificial Intelligence at Tilburg University 
 ## Interpretable Breast Cancer Classification
 
 In my Bachelor Thesis in explored the potential of Deep Learning methods for breast cancer classification. I focused on the application of Convolutional Neural Networks (CNNs) to classify normal, benign, and malignant breast tissue in mammograms. 
